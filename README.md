@@ -57,6 +57,7 @@ git clone git@github.com:barzanisar/Astar-Route-Planner.git --recurse-submodules
 ### Compiling
 To compile the project, first, create a `build` directory and change to that directory:
 ```
+cd Astar-Route-Planner
 mkdir build && cd build
 ```
 From within the `build` directory, then run `cmake` and `make` as follows:
